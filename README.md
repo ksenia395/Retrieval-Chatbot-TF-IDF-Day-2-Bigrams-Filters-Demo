@@ -1,4 +1,4 @@
-# Retrieval-Chatbot-TF-IDF-Day-2-Bigrams-Filters-Demo
+
 # Retrieval Chatbot (Cornell Movie Dialogs) — 2-day build
 
 A simple retrieval-based chatbot built in 2 days.
@@ -32,4 +32,8 @@ This repo contains code only. Dataset is provided separately via Kaggle:
 
 ## License
 MIT (code). Dataset license/terms belong to dataset authors/providers.
+
+The full implementation and experiments are available on Kaggle:
+
+👉 View the Kaggle Notebook
 https://www.kaggle.com/code/ksenia395/retrieval-chatbot-tf-idf-day-2-bigrams-fil/
