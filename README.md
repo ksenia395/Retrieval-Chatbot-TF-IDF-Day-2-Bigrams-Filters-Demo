@@ -37,3 +37,4 @@ The full implementation and experiments are available on Kaggle:
 
 👉 View the Kaggle Notebook
 https://www.kaggle.com/code/ksenia395/retrieval-chatbot-tf-idf-day-2-bigrams-fil/
+“Kaggle notebook is the most up-to-date version.”
